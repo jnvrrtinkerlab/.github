@@ -3,6 +3,7 @@
 Welcome to the **JNVR Tinker Lab** GitHub organization! This is the central hub for all school robotics projects, embedded systems development, and computer lab initiatives. Here you'll find documentation, code, and resources for autonomous systems, IoT devices, and hardware-software integration projects.
 
 ---
+## DEVELOPED BY YESHWANTH KUMAR D
 
 ## 📚 About This Lab
 
