@@ -1,7 +1,3 @@
-Below is a **compressed, GitHub-ready version** that **keeps the same structure and headings**, but removes repetition and verbosity while staying professional and clear.
-
----
-
 # 🤖 JNVR Tinker Lab – School Robotics & Computer Lab Projects
 
 Welcome to the **JNVR Tinker Lab** GitHub organization — the central hub for school robotics, embedded systems, and computer lab projects. This space hosts code, documentation, and learning resources for robotics, IoT, and hardware–software integration.
