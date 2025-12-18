@@ -155,6 +155,14 @@ Maintained by students and faculty focused on:
 * Arduino Documentation – [https://docs.arduino.cc](https://docs.arduino.cc)
 * Raspberry Pi Pico MicroPython – [https://micropython.org](https://micropython.org)
 * GitHub Guides – [https://guides.github.com](https://guides.github.com)
+* 
+### 🎮 Godot Game Engine & GDScript
+* Godot Contributing Guide – [https://contributing.godotengine.org/en/latest/index.html](https://contributing.godotengine.org/en/latest/index.html)
+* GitHub Profile (jnvrr) – [https://github.com/jnvrr](https://github.com/jnvrr)
+* GDScript Tutorial Videos – [https://www.youtube.com/results?search_query=gdscript+tutorial](https://www.youtube.com/results?search_query=gdscript+tutorial)
+* Godot + AI Videos – [https://www.youtube.com/results?search_query=godot+%2B+ai](https://www.youtube.com/results?search_query=godot+%2B+ai)
+* Godot Playlists – [https://www.youtube.com/results?search_query=godot+playlist](https://www.youtube.com/results?search_query=godot+playlist)
+* Godot Basics Videos – [https://www.youtube.com/results?search_query=godot+basics](https://www.youtube.com/results?search_query=godot+basics)
 
 ---
 
