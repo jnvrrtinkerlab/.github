@@ -1,6 +1,6 @@
 # 🤖 JNVR Tinker Lab – School Robotics & Computer Lab Projects
 
-Welcome to the **JNVR Tinker Lab** GitHub organization — the central hub for school robotics, embedded systems, and computer lab projects. This space hosts code, documentation, and learning resources for robotics, IoT, and hardware–software integration.
+Welcome to the **JNVR Tinker Lab** GitHub organization — the central hub for school robotics, embedded systems, and computer lab projects. This space hosts code, documentation, and learning resources for robotics, IoT, and hardware–software integration.and
 
 ---
 
